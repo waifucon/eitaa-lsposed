@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Eitaa AdBlocker</string>
+    <string name="app_description">LSPosed module to remove ads from Eitaa</string>
+</resources>
